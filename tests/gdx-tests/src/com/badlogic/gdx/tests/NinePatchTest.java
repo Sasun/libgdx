@@ -41,7 +41,7 @@ public class NinePatchTest extends GdxTest {
 			this.ninePatch = NinePatchTest.newNinePatch();
 		}
 
-		TestPatch (String n, NinePatch np) {
+			TestPatch (String n, NinePatch np) {
 			this.name = n;
 			this.ninePatch = np;
 		}
